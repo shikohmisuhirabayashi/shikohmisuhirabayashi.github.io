@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shikohmisuhirabayashi.github.io/sitemap.xml
